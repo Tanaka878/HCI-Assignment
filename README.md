@@ -1,4 +1,4 @@
-# 🔐 Digital Space - Login System (Android)
+#Login System (Android)
 
 A simple **Login System** built in **Android Studio** using **Java**.  
 It includes username & password fields, error validation messages, a **Remember Me** checkbox, and a **written logo** ("Digital Space").  
